@@ -1,0 +1,10 @@
+{
+  "Settings": {
+    "Email": "123@gmail.com",
+    "Password": "123",
+    "2CaptchaAPIKey": "sdfsdfsd",
+    "ChangeInterests": false,
+    "NumberOfInstancesToRun": 1,
+    "WaitForIP": 10
+  }
+}
